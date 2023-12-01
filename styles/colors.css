@@ -1,0 +1,45 @@
+.bg-primary {
+    background-color: red;
+}
+
+.bg-secondary {
+    background-color: rgb(17 24 39);
+}
+
+.bg-accent {
+    background-color: #c72f2f;
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.bg-light {
+    background-color: #fafafa;
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+.text-primary {
+}
+
+.text-secondary {
+}
+
+.text-accent {
+    color: #c72f2f;
+}
+
+.text-dark {
+    color: black;
+}
+
+.text-gray {
+    color: rgb(55 65 81);
+}
+
+.text-light {
+    color: white;
+}

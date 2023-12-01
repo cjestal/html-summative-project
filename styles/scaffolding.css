@@ -1,0 +1,144 @@
+.p-sm {
+    padding: 10px;
+}
+
+.p-md {
+    padding: 20px;
+}
+
+.p-lg {
+    padding: 30px;
+}
+
+.py-sm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.py-md {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.py-lg {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.py-xl {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pt-sm {
+    padding-top: 10px;
+}
+
+.pt-md {
+    padding-top: 20px;
+}
+
+.pt-lg {
+    padding-top: 30px;
+}
+
+.pt-xl {
+    padding-top: 50px;
+}
+
+.pb-sm {
+    padding-bottom: 10px;
+}
+
+.pb-md {
+    padding-bottom: 20px;
+}
+
+.pb-lg {
+    padding-bottom: 30px;
+}
+
+.pb-xl {
+    padding-bottom: 50px;
+}
+
+.px-sm {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.px-md {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.px-lg {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.px-xl {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.m-sm {
+    margin: 10px;
+}
+
+.m-md {
+    margin: 20px;
+}
+
+.m-lg {
+    margin: 30px;
+}
+
+.mt-sm {
+    margin-top: 10px;
+}
+
+.mt-md {
+    margin-top: 20px;
+}
+
+.mt-lg {
+    margin-top: 30px;
+}
+
+.mb-sm {
+    margin-bottom: 10px;
+}
+
+.mb-md {
+    margin-bottom: 20px;
+}
+
+.mb-lg {
+    margin-bottom: 30px;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.w-half {
+    width: 50%;
+}
+.w-forty {
+    width: 40%;
+}
+.w-sixty {
+    width: 60%;
+}
+.w-third {
+    width: 33.33%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.rounded-border {
+    border-radius: 1.5rem;
+}
